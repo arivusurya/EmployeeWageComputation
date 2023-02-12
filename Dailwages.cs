@@ -1,7 +1,7 @@
 namespace EmployeWage {
 
     public class dailywage{
-        public const int number_ofWorking_days=20;
+        public  int number_ofWorking_days=20;
 
 
         public static void wagecalculation(){
